@@ -1,0 +1,26 @@
+[
+    {
+        "id": "2f53",
+        "name": "Shailendra verma",
+        "email": "som@2gmail.com",
+        "password": "abc@123"
+      },
+    {
+      "id": "2198",
+      "name": "Revti Verma",
+      "email": "revti@gmail.com",
+      "password": "abc@123"
+    },
+    {
+        "id": "33c4",
+        "name": "Mukesh",
+        "password": "abc@123",
+        "email": "mk@gmail.com"
+      },
+      {
+        "id": "3674",
+        "name": "Shailendra Verma",
+        "email": "shailkumarverma2017.com",
+        "password": "abc@123"
+      }
+  ]
